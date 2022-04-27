@@ -7,8 +7,7 @@ const Search = () => {
 
 
     //APP_ID and APP_KEY to access free API from edeman
-    const APP_ID = "44b065e3";
-    const APP_KEY = "ea5cb343a23a6ab5d20dd9cd8e06c370";
+    
 
     const [recipes, setRecipes] = useState([]);
     const [search, setSearch] = useState('');
